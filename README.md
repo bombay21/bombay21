@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenechukwu
 - 👀 I’m interested in building valuable solutions with C# .NET Core, NodeJs, React, SQL, MongoDb
-- 🌱 I’m currently learning the commercial use of React Js :) 
-- 💞️ I’m looking to collaborate on fullstack projects that involve NodeJs and React
+- 🌱 I’m currently learning devops, microservices development and deployment :) 
+- 💞️ I’m looking to collaborate on fullstack projects that involve C# .NET Core, NodeJs, React, MongoDb / SQL Server
 - 📫 Feel free to contact me via kenechukwu.john@gmail.com
 
 <!---
